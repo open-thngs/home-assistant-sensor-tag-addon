@@ -16,4 +16,4 @@ else
 fi
 
 echo "Run script"
-python3 /udp.py
+python3 /app.py

@@ -9,7 +9,7 @@ RUN \
 COPY requirements.txt /requirements.txt
 
 COPY run.sh /
-COPY src/udp.py /udp.py
+COPY app.py /app.py
 RUN chmod a+x /run.sh
 
 CMD [ "/run.sh" ]
