@@ -21,5 +21,5 @@ jobs:
         with:
           args: |
             --all \
-            --target . \
+            --target thread-sensor-tag-addon \
             --docker-hub informatic0re

@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Home Assistant Thread Sesnsor Tag UDP to MQTT add-on repository
+url: 'https://github.com/open-thngs/home-assistant-sensor-tag-addon'
+maintainer: Mirko Häberlin <mirko.haeberlin@open-things.de>

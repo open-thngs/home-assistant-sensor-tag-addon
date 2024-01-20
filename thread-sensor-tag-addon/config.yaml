@@ -1,6 +1,6 @@
 name: "Thread Sensor Tag UPD 2 MQTT"
 description: "AddOn to translate the Thread Sensor Tag UDP pakets into Home Assistant Devices"
-version: "1.0.40"
+version: "1.1.0"
 slug: "udp2mqtt"
 init: false
 image: "informatic0re/home-assistant-{arch}-sensor-tag-addon"
