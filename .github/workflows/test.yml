@@ -15,5 +15,5 @@ jobs:
           args: |
             --test \
             --all \
-            --target . \
+            --target thread-sensor-tag-addon \
             --docker-hub informatic0re/home-assistant-sensor-tag-addon
