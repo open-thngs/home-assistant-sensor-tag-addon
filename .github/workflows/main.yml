@@ -16,5 +16,4 @@ jobs:
             --test \
             --all \
             --target . \
-            --docker-hub home-assistant-sensor-tag-addon
-            --version 1.0.0
+            --docker-hub informatic0re
