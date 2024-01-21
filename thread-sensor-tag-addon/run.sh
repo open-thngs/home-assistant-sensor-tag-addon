@@ -1,7 +1,5 @@
 #!/usr/bin/with-contenv bashio
 
-echo "Hello world!"
-
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
