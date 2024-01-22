@@ -2,7 +2,7 @@
 
 This AddOn is used to translate the UDP pakets of the [Thread Sensor Tag](https://www.tindie.com/products/23918/) into MQTT Discovery MEssages for Home Assistant
 
-Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
+Go to [Add-on documentation](https://github.com/open-thngs/home-assistant-sensor-tag-addon/blob/main/thread-sensor-tag-addon/DOCS.md) to get started.
 
 [![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/open-thngs/home-assistant-sensor-tag-addon)
 
@@ -10,7 +10,7 @@ Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
 This repository contains the following add-ons
 
-### [Thread Sensor Tag UDP to MQTT add-on](./example)
+### Thread Sensor Tag UDP to MQTT add-on
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
